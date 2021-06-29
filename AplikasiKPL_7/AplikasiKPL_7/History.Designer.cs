@@ -41,18 +41,18 @@ namespace AplikasiKPL_7
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.jam4 = new System.Windows.Forms.TextBox();
+            this.jam3 = new System.Windows.Forms.TextBox();
+            this.jam2 = new System.Windows.Forms.TextBox();
+            this.jam1 = new System.Windows.Forms.TextBox();
+            this.ts4 = new System.Windows.Forms.TextBox();
+            this.ts3 = new System.Windows.Forms.TextBox();
+            this.ts2 = new System.Windows.Forms.TextBox();
+            this.ts1 = new System.Windows.Forms.TextBox();
+            this.Box4 = new System.Windows.Forms.TextBox();
+            this.Box3 = new System.Windows.Forms.TextBox();
+            this.Box2 = new System.Windows.Forms.TextBox();
+            this.Box1 = new System.Windows.Forms.TextBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
@@ -78,6 +78,7 @@ namespace AplikasiKPL_7
             this.Sabtu.TabIndex = 11;
             this.Sabtu.Text = "Sabtu";
             this.Sabtu.UseVisualStyleBackColor = true;
+            this.Sabtu.Click += new System.EventHandler(this.Sabtu_Click);
             // 
             // Jumaat
             // 
@@ -87,6 +88,7 @@ namespace AplikasiKPL_7
             this.Jumaat.TabIndex = 10;
             this.Jumaat.Text = "Jumat";
             this.Jumaat.UseVisualStyleBackColor = true;
+            this.Jumaat.Click += new System.EventHandler(this.Jumaat_Click);
             // 
             // Kamis
             // 
@@ -96,6 +98,7 @@ namespace AplikasiKPL_7
             this.Kamis.TabIndex = 9;
             this.Kamis.Text = "Kamis";
             this.Kamis.UseVisualStyleBackColor = true;
+            this.Kamis.Click += new System.EventHandler(this.Kamis_Click);
             // 
             // rabu
             // 
@@ -105,6 +108,7 @@ namespace AplikasiKPL_7
             this.rabu.TabIndex = 8;
             this.rabu.Text = "Rabu";
             this.rabu.UseVisualStyleBackColor = true;
+            this.rabu.Click += new System.EventHandler(this.rabu_Click);
             // 
             // Selasa
             // 
@@ -114,6 +118,7 @@ namespace AplikasiKPL_7
             this.Selasa.TabIndex = 7;
             this.Selasa.Text = "Selasa";
             this.Selasa.UseVisualStyleBackColor = true;
+            this.Selasa.Click += new System.EventHandler(this.Selasa_Click);
             // 
             // Senin
             // 
@@ -123,6 +128,7 @@ namespace AplikasiKPL_7
             this.Senin.TabIndex = 6;
             this.Senin.Text = "Senin";
             this.Senin.UseVisualStyleBackColor = true;
+            this.Senin.Click += new System.EventHandler(this.Senin_Click);
             // 
             // keluar
             // 
@@ -164,18 +170,18 @@ namespace AplikasiKPL_7
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.textBox13);
-            this.groupBox1.Controls.Add(this.textBox14);
-            this.groupBox1.Controls.Add(this.textBox15);
-            this.groupBox1.Controls.Add(this.textBox16);
-            this.groupBox1.Controls.Add(this.textBox5);
-            this.groupBox1.Controls.Add(this.textBox6);
-            this.groupBox1.Controls.Add(this.textBox7);
-            this.groupBox1.Controls.Add(this.textBox8);
-            this.groupBox1.Controls.Add(this.textBox4);
-            this.groupBox1.Controls.Add(this.textBox3);
-            this.groupBox1.Controls.Add(this.textBox2);
-            this.groupBox1.Controls.Add(this.textBox1);
+            this.groupBox1.Controls.Add(this.jam4);
+            this.groupBox1.Controls.Add(this.jam3);
+            this.groupBox1.Controls.Add(this.jam2);
+            this.groupBox1.Controls.Add(this.jam1);
+            this.groupBox1.Controls.Add(this.ts4);
+            this.groupBox1.Controls.Add(this.ts3);
+            this.groupBox1.Controls.Add(this.ts2);
+            this.groupBox1.Controls.Add(this.ts1);
+            this.groupBox1.Controls.Add(this.Box4);
+            this.groupBox1.Controls.Add(this.Box3);
+            this.groupBox1.Controls.Add(this.Box2);
+            this.groupBox1.Controls.Add(this.Box1);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label3);
@@ -186,89 +192,90 @@ namespace AplikasiKPL_7
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "View";
             // 
-            // textBox13
+            // jam4
             // 
-            this.textBox13.Location = new System.Drawing.Point(424, 218);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(125, 27);
-            this.textBox13.TabIndex = 21;
+            this.jam4.Location = new System.Drawing.Point(424, 218);
+            this.jam4.Name = "jam4";
+            this.jam4.Size = new System.Drawing.Size(125, 27);
+            this.jam4.TabIndex = 21;
             // 
-            // textBox14
+            // jam3
             // 
-            this.textBox14.Location = new System.Drawing.Point(424, 172);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(125, 27);
-            this.textBox14.TabIndex = 20;
+            this.jam3.Location = new System.Drawing.Point(424, 172);
+            this.jam3.Name = "jam3";
+            this.jam3.Size = new System.Drawing.Size(125, 27);
+            this.jam3.TabIndex = 20;
             // 
-            // textBox15
+            // jam2
             // 
-            this.textBox15.Location = new System.Drawing.Point(424, 128);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(125, 27);
-            this.textBox15.TabIndex = 19;
+            this.jam2.Location = new System.Drawing.Point(424, 128);
+            this.jam2.Name = "jam2";
+            this.jam2.Size = new System.Drawing.Size(125, 27);
+            this.jam2.TabIndex = 19;
             // 
-            // textBox16
+            // jam1
             // 
-            this.textBox16.Location = new System.Drawing.Point(424, 83);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(125, 27);
-            this.textBox16.TabIndex = 18;
+            this.jam1.Location = new System.Drawing.Point(424, 83);
+            this.jam1.Name = "jam1";
+            this.jam1.Size = new System.Drawing.Size(125, 27);
+            this.jam1.TabIndex = 18;
             // 
-            // textBox5
+            // ts4
             // 
-            this.textBox5.Location = new System.Drawing.Point(245, 216);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(125, 27);
-            this.textBox5.TabIndex = 17;
+            this.ts4.Location = new System.Drawing.Point(245, 216);
+            this.ts4.Name = "ts4";
+            this.ts4.Size = new System.Drawing.Size(125, 27);
+            this.ts4.TabIndex = 17;
             // 
-            // textBox6
+            // ts3
             // 
-            this.textBox6.Location = new System.Drawing.Point(245, 172);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(125, 27);
-            this.textBox6.TabIndex = 16;
+            this.ts3.Location = new System.Drawing.Point(245, 172);
+            this.ts3.Name = "ts3";
+            this.ts3.Size = new System.Drawing.Size(125, 27);
+            this.ts3.TabIndex = 16;
             // 
-            // textBox7
+            // ts2
             // 
-            this.textBox7.Location = new System.Drawing.Point(245, 128);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(125, 27);
-            this.textBox7.TabIndex = 15;
+            this.ts2.Location = new System.Drawing.Point(245, 128);
+            this.ts2.Name = "ts2";
+            this.ts2.Size = new System.Drawing.Size(125, 27);
+            this.ts2.TabIndex = 15;
             // 
-            // textBox8
+            // ts1
             // 
-            this.textBox8.Location = new System.Drawing.Point(245, 83);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(125, 27);
-            this.textBox8.TabIndex = 14;
+            this.ts1.Location = new System.Drawing.Point(245, 83);
+            this.ts1.Name = "ts1";
+            this.ts1.Size = new System.Drawing.Size(125, 27);
+            this.ts1.TabIndex = 14;
             // 
-            // textBox4
+            // Box4
             // 
-            this.textBox4.Location = new System.Drawing.Point(34, 216);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(125, 27);
-            this.textBox4.TabIndex = 13;
+            this.Box4.Location = new System.Drawing.Point(34, 216);
+            this.Box4.Name = "Box4";
+            this.Box4.Size = new System.Drawing.Size(148, 27);
+            this.Box4.TabIndex = 13;
             // 
-            // textBox3
+            // Box3
             // 
-            this.textBox3.Location = new System.Drawing.Point(34, 172);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(125, 27);
-            this.textBox3.TabIndex = 12;
+            this.Box3.Location = new System.Drawing.Point(34, 172);
+            this.Box3.Name = "Box3";
+            this.Box3.Size = new System.Drawing.Size(148, 27);
+            this.Box3.TabIndex = 12;
             // 
-            // textBox2
+            // Box2
             // 
-            this.textBox2.Location = new System.Drawing.Point(34, 128);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(125, 27);
-            this.textBox2.TabIndex = 11;
+            this.Box2.Location = new System.Drawing.Point(34, 128);
+            this.Box2.Name = "Box2";
+            this.Box2.Size = new System.Drawing.Size(148, 27);
+            this.Box2.TabIndex = 11;
             // 
-            // textBox1
+            // Box1
             // 
-            this.textBox1.Location = new System.Drawing.Point(34, 83);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(125, 27);
-            this.textBox1.TabIndex = 10;
+            this.Box1.Location = new System.Drawing.Point(34, 83);
+            this.Box1.Name = "Box1";
+            this.Box1.Size = new System.Drawing.Size(148, 27);
+            this.Box1.TabIndex = 10;
+            this.Box1.TextChanged += new System.EventHandler(this.Box1_TextChanged);
             // 
             // textBox9
             // 
@@ -335,18 +342,18 @@ namespace AplikasiKPL_7
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textBox13;
-        private System.Windows.Forms.TextBox textBox14;
-        private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.TextBox textBox16;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox jam4;
+        private System.Windows.Forms.TextBox jam3;
+        private System.Windows.Forms.TextBox jam2;
+        private System.Windows.Forms.TextBox jam1;
+        private System.Windows.Forms.TextBox ts4;
+        private System.Windows.Forms.TextBox ts3;
+        private System.Windows.Forms.TextBox ts2;
+        private System.Windows.Forms.TextBox ts1;
+        private System.Windows.Forms.TextBox Box4;
+        private System.Windows.Forms.TextBox Box3;
+        private System.Windows.Forms.TextBox Box2;
+        private System.Windows.Forms.TextBox Box1;
         private System.Windows.Forms.TextBox textBox9;
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.TextBox textBox11;
