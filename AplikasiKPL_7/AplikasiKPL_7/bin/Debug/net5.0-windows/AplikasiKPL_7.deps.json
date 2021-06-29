@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AplikasiKPL_7/1.0.0": {
+        "runtime": {
+          "AplikasiKPL_7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplikasiKPL_7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
