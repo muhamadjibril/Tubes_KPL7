@@ -39,3 +39,26 @@ D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7
 D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.History.resources
 D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Login.resources
 D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Menu.resources
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.exe
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.deps.json
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.runtimeconfig.json
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.runtimeconfig.dev.json
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.dll
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\ref\AplikasiKPL_7.dll
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.pdb
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.csprojAssemblyReference.cache
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.History.resources
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Login.resources
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Menu.resources
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.TambahJadwal.resources
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.csproj.GenerateResource.cache
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.AssemblyInfoInputs.cache
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.AssemblyInfo.cs
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.csproj.CoreCompileInputs.cache
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.dll
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\ref\AplikasiKPL_7.dll
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.pdb
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.genruntimeconfig.cache
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Form1.resources
+D:\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Properties.Resources.resources
