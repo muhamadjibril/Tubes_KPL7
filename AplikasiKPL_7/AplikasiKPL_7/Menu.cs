@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace AplikasiKPL_7
 {
-    public partial class Form1 : Form
+    public partial class Menu : Form
     {
-        public Form1()
+        public Menu()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -27,9 +22,14 @@ namespace AplikasiKPL_7
             this.Hide(); TambahJadwal tj = new TambahJadwal(); tj.Show();
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
+            this.Hide(); History ht = new History(); ht.Show();
+        }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide(); Login lg = new Login(); lg.Show();
         }
     }
 }

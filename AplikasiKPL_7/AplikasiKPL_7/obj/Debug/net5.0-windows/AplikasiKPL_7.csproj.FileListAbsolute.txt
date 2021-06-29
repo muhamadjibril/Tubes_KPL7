@@ -18,3 +18,24 @@ D:\KPL77\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\Aplikas
 D:\KPL77\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\ref\AplikasiKPL_7.dll
 D:\KPL77\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.pdb
 D:\KPL77\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.genruntimeconfig.cache
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.exe
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.deps.json
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.runtimeconfig.json
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.runtimeconfig.dev.json
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.dll
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\ref\AplikasiKPL_7.dll
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\bin\Debug\net5.0-windows\AplikasiKPL_7.pdb
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.csprojAssemblyReference.cache
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.TambahJadwal.resources
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.csproj.GenerateResource.cache
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.AssemblyInfoInputs.cache
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.AssemblyInfo.cs
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.csproj.CoreCompileInputs.cache
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.dll
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\ref\AplikasiKPL_7.dll
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.pdb
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.genruntimeconfig.cache
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.History.resources
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Login.resources
+D:\MATERI KULIAH\SEMESTER 4\Konstruksi PL\Tubes_KPL7\AplikasiKPL_7\AplikasiKPL_7\obj\Debug\net5.0-windows\AplikasiKPL_7.Menu.resources

@@ -41,5 +41,10 @@ namespace AplikasiKPL_7
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide(); Menu mn = new Menu(); mn.Show();
+        }
     }
 }
