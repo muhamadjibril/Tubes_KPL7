@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace AplikasiKPL_7
 {
-    public partial class Form1 : Form
+    public partial class TambahJadwal : Form
     {
-        public Form1()
+        public TambahJadwal()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -22,12 +27,17 @@ namespace AplikasiKPL_7
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            this.Hide(); TambahJadwal tj = new TambahJadwal(); tj.Show();
+
         }
 
-        private void label2_Click(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }
