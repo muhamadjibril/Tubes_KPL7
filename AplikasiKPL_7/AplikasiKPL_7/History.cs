@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace AplikasiKPL_7
 {
-    public partial class Form2 : Form
+    public partial class History : Form
     {
-        public Form2()
+        public History()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void keluar_Click(object sender, EventArgs e)
+        {
+            this.Hide(); Menu mn = new Menu(); mn.Show();
         }
     }
 }

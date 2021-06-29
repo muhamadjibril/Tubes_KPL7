@@ -1,7 +1,7 @@
 ﻿
 namespace AplikasiKPL_7
 {
-    partial class Form1
+    partial class Login
     {
         /// <summary>
         ///  Required designer variable.
@@ -63,35 +63,38 @@ namespace AplikasiKPL_7
             // 
             this.textBox1.Location = new System.Drawing.Point(89, 105);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(156, 34);
+            this.textBox1.Size = new System.Drawing.Size(156, 27);
             this.textBox1.TabIndex = 2;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(89, 204);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(156, 34);
+            this.textBox2.Size = new System.Drawing.Size(156, 27);
             this.textBox2.TabIndex = 3;
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.SystemColors.HotTrack;
             this.button1.Location = new System.Drawing.Point(234, 311);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(118, 36);
             this.button1.TabIndex = 4;
             this.button1.Text = "Log In";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.panel1.Controls.Add(this.checkBox1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.textBox2);
-            this.panel1.Location = new System.Drawing.Point(274, 91);
+            this.panel1.Location = new System.Drawing.Point(249, 90);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(391, 386);
             this.panel1.TabIndex = 5;
@@ -99,20 +102,21 @@ namespace AplikasiKPL_7
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(14, 316);
+            this.checkBox1.Location = new System.Drawing.Point(47, 318);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(126, 24);
+            this.checkBox1.Size = new System.Drawing.Size(129, 24);
             this.checkBox1.TabIndex = 5;
             this.checkBox1.Text = "Remember Me";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1231, 726);
+            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.ClientSize = new System.Drawing.Size(884, 568);
             this.Controls.Add(this.panel1);
-            this.Name = "Form1";
+            this.Name = "Login";
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
