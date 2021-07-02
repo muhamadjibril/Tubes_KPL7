@@ -32,9 +32,10 @@ namespace AplikasiKPL_7
             this.Hide(); Login lg = new Login(); lg.Show();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void button4_Click_1(object sender, EventArgs e)
         {
-            this.Hide(); Form1 bg = new Form1(); bg.Show();
+            this.Hide(); Form2 kj = new Form2(); kj.Show();
+
         }
     }
 }

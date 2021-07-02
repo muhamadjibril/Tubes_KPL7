@@ -33,6 +33,7 @@ namespace AplikasiKPL_7
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.btnBio = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -67,19 +68,30 @@ namespace AplikasiKPL_7
             // 
             // btnBio
             // 
-            this.btnBio.Location = new System.Drawing.Point(275, 293);
+            this.btnBio.Location = new System.Drawing.Point(130, 273);
             this.btnBio.Name = "btnBio";
-            this.btnBio.Size = new System.Drawing.Size(257, 29);
+            this.btnBio.Size = new System.Drawing.Size(219, 29);
             this.btnBio.TabIndex = 3;
             this.btnBio.Text = "Biografi";
             this.btnBio.UseVisualStyleBackColor = true;
-            this.btnBio.Click += new System.EventHandler(this.button4_Click);
+            
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(459, 273);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(219, 29);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "Imput Kegiatan";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click_1);
             // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.btnBio);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -96,5 +108,6 @@ namespace AplikasiKPL_7
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button btnBio;
+        private System.Windows.Forms.Button button4;
     }
 }
