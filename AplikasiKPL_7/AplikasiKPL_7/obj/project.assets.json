@@ -8,25 +8,11 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\user\\.nuget\\packages\\": {}
-=======
     "C:\\Users\\Asus\\.nuget\\packages\\": {}
->>>>>>> 4cbaf773ce8b2d35ecd2435df03285387c4c3c27
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
-      "projectName": "AplikasiKPL_7",
-      "projectPath": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
       "projectUniqueName": "D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
       "projectName": "AplikasiKPL_7",
       "projectPath": "D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
@@ -35,7 +21,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 4cbaf773ce8b2d35ecd2435df03285387c4c3c27
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -81,5 +66,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
