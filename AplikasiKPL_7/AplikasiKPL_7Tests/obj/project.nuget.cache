@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Se4+VTI3naf0suUN9i8Gaq/b+A1ugB1CTcAenSLHU0sbnFVMoDMgWIyhflYFliVZIHpRsscsGvN2UIB2msa5DA==",
+  "success": false,
+  "projectFilePath": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7Tests\\AplikasiKPL_7Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project AplikasiKPL_7 is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project AplikasiKPL_7 supports: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "AplikasiKPL_7",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
