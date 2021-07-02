@@ -1,22 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj": {}
-  },
-  "projects": {
-    "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
-        "projectName": "AplikasiKPL_7",
-        "projectPath": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
     "D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj": {}
   },
   "projects": {
@@ -31,7 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 4cbaf773ce8b2d35ecd2435df03285387c4c3c27
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
