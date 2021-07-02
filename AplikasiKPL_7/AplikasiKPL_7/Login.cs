@@ -12,8 +12,10 @@ namespace AplikasiKPL_7
 {
     public partial class Login : Form
     {
-        string Username = "dole";
-        string Password = "1234";
+        static Class1.Username id = Class1.Username.dzaky;
+        public string username = id.ToString();
+        public string password = Class1.getPassword(id);
+
         public Login()
         {
             InitializeComponent();
@@ -26,24 +28,29 @@ namespace AplikasiKPL_7
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text == Username && textBox1.Text == Password)
+            string Username, Password;
+            Username = textBox1.Text;
+            Password = textBox2.Text;
+
+            if (textBox1.Text == username.ToString() && textBox2.Text == password.ToString())
             {
                 MessageBox.Show("Kamu berhasil login");
-            }
-            else if (textBox2.Text == "" || textBox2.Text == "")
-            {
-                MessageBox.Show("Kamu belum mengisi form login");
-            }
-            else
-            {
-                MessageBox.Show("Berhasil Login ");
-            }
-           
-            {
                 this.Hide(); Menu mn = new Menu(); mn.Show();
             }
+            else if (textBox1.Text == "" || textBox2.Text == "")
+            {
+                MessageBox.Show("Kamu belum mengisi data login");
+            }
+            else
+
+            {
+                MessageBox.Show("Gagal login");
+                this.Hide(); Login lg = new Login(); lg.Show();
+            }
+
+
         }
-    
+
 
         private void label2_Click(object sender, EventArgs e)
         {
