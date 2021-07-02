@@ -6,8 +6,13 @@
       "version": "5.0.0"
     },
     "additionalProbingPaths": [
+<<<<<<< HEAD
+      "C:\\Users\\user\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ACER\\.nuget\\packages"
+=======
       "C:\\Users\\Asus\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Asus\\.nuget\\packages"
+>>>>>>> 4cbaf773ce8b2d35ecd2435df03285387c4c3c27
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

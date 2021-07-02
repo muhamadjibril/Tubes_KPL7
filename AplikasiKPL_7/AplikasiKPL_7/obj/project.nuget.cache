@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "xt50SEyU3CTpmMe5cy1I8/GS6Bsz39HyJFmnnTnsyd1EzkXGIB5Ja4XRluC8pudq9/Oi6t5Uw21ny9VWZ+/fKQ==",
+  "success": true,
+  "projectFilePath": "D:\\KPL77\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
+=======
   "dgSpecHash": "QXhu0G3VqCx60aBgsZbEkAiSkfIyYbBm8q4UM+MsLDGNrcBW//G2yND8BCtuz2kCsfESLp7G1RajFmTI3IAvow==",
   "success": true,
   "projectFilePath": "D:\\MATERI KULIAH\\SEMESTER 4\\Konstruksi PL\\Tubes_KPL7\\AplikasiKPL_7\\AplikasiKPL_7\\AplikasiKPL_7.csproj",
+>>>>>>> 4cbaf773ce8b2d35ecd2435df03285387c4c3c27
   "expectedPackageFiles": [],
   "logs": []
 }
